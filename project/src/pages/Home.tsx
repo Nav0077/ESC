@@ -186,6 +186,7 @@ export function Home() {
                 <h3 className="text-xl font-bold text-blue-800 mb-2">About Us</h3>
                 <p className="text-lg font-semibold">Elite Social Club</p>
                 <p className="text-gray-600">Elite Social Club is a cricket club based in the heart of the city. We have been in existence since 1995 and have been a breeding ground for cricketing talent in the region. We have produced several international cricketers who have gone on to represent the country at the highest level. Our club has state-of-the-art facilities and a team of experienced coaches who are dedicated to nurturing the next generation of cricketers. We believe in the power of sport to transform lives and are committed to providing a safe and inclusive environment for all our members.</p>
+                <p className="text-gray-600">Elite</p>
               </div>
             </div>
           </div>
@@ -206,6 +207,9 @@ export function Home() {
               </p>
               <p className="text-gray-600">Phone:
                 <span className="text-blue-800">9864726814</span>
+              </p>
+              <p className="text-gray-600">Facebook:
+                <a href="mailto:info@elitesocialclub.com" className="text-blue-800">info@elitesocialclub.com</a>
               </p>
             </div>
           </div>
